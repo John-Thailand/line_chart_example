@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:line_chart/charts/line-chart.widget.dart';
 import 'package:line_chart/model/line-chart.model.dart';
 
+// コメント追記
 void main() {
   runApp(MyApp());
 }
